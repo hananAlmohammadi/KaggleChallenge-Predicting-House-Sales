@@ -45,12 +45,3 @@ The project aims to predict the sale prices of new houses, which is given in the
 
 Our findings in this study are that the house sale price affected by the built year also, the location zone seems to be important as well in deciding house price. There are also other features that play roles in affecting the sale price of the house like the total area of its basement, the living area, kitchen's quality, its foundation, and the neighborhood of the house. Our target was predicting house sale price based on features.
 
-
-# Group Members:
-
-- Hanan Almohammadi 
-- Nesreen Alqahtani
-- Samaher Alharbi
-
-
-```
