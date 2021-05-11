@@ -6,10 +6,6 @@
 
 # Introduction 
 
-## published Kaggle kernel:
-
-[House Prices - Advanced Regression Techniques](https://www.kaggle.com/hananxx/house-price-predication)
-
 ## Datasets Description 
 
 [House prices ](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
